@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QVN", "QVN\QVN.csproj", "{8F68F9DE-178D-4C6B-A94C-1CCFCAC2A589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QVNUpdate", "QVNUpdate\QVNUpdate.csproj", "{7017FA76-C3C5-4EBA-BA94-801EA369FB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F68F9DE-178D-4C6B-A94C-1CCFCAC2A589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F68F9DE-178D-4C6B-A94C-1CCFCAC2A589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F68F9DE-178D-4C6B-A94C-1CCFCAC2A589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F68F9DE-178D-4C6B-A94C-1CCFCAC2A589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7017FA76-C3C5-4EBA-BA94-801EA369FB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7017FA76-C3C5-4EBA-BA94-801EA369FB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7017FA76-C3C5-4EBA-BA94-801EA369FB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7017FA76-C3C5-4EBA-BA94-801EA369FB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
